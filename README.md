@@ -1,2 +1,2 @@
 # algorithms repository
-some widely used algos (in C and CPP)
+generic full-baked or half-baked programming algos in various languages
